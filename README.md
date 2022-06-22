@@ -1,0 +1,1 @@
+# capacitacion_odoo_sh
